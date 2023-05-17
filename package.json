@@ -1,0 +1,20 @@
+{
+    "name": "typescript-tests",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "tsc": "tsc",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "keywords": [],
+    "description": "",
+    "devDependencies": {
+        "@types/node": "^20.1.7",
+        "typescript": "^5.0.4"
+    },
+    "dependencies": {
+        "nodemon": "^2.0.22"
+    }
+}
