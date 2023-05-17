@@ -5,14 +5,14 @@ TypeScript is a statically-typed superset of JavaScript that adds type annotatio
 ## Initialize a Node.js project and install TypeScript.
 
 ```bash
-npm  init  -y
-npm  install  --save-dev  typescript
+npm init -y
+npm install --save-dev typescript
 ```
 
 ## Compile
 
 ```bash
-npm  run  tsc  src/index.ts
+npm run tsc src/index.ts
 ```
 
 ## Nodemon
